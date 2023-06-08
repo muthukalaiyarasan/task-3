@@ -1,0 +1,14 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+ img{
+	width:100%;
+}
+#ico{
+	font-size:30px;
+}
+.row{
+      align-items:center;
+}
